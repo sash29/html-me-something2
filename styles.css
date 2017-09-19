@@ -1,0 +1,30 @@
+body {
+    width:1000px;
+    border:2px solid green;
+    padding:15px;
+    margin:auto;
+    background-color:lightgreen;
+}
+main p{
+    display:inline-block;
+}
+.textnimg  {
+    width:800px;
+    display:inline-block}
+
+h1{
+    text-align: center;
+}
+h2 {
+    text-align:center;
+}
+p{
+    display:inline-block;
+}
+article img {
+    max-width:1000px;
+}
+img {
+    
+    display :block;
+}
